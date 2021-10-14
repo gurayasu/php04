@@ -4,10 +4,10 @@ use Illuminate\Http\Request;
 
 /**
 * 本の一覧表示(books.blade.php)
-*/
+*/https://github.com/gurayasu/php04/blob/main/routes/web.php
 Route::get('/', function () {
     return view('books');
-});
+})->name('login');
 
 /**
 * 本を追加 
