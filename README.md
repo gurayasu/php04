@@ -1,3 +1,2 @@
-①課題内容（課題名・どんな作品か） Laravelの予習。AWSCloud９での環境構築、フォーム画面作成までLaravelで実装。
-②工夫した点・こだわった点 （上手くいかなった点、工夫した点） 今回は工夫点は特になく、書籍の読みながら実装。
-③質問・疑問（あれば） ④その他（感想、シェアしたいことなんでも）Laravelのエラー解決がまだよくわかっていない、
+AWSCloud９での環境構築、フォーム画面作成までLaravelで実装。
+この書籍を参考に学習、https://www.amazon.co.jp/dp/B08TBF3FQS/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
